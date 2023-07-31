@@ -69,3 +69,18 @@ a{
     color: black;
     font-weight: bold;
 }
+
+@media screen and (min-width: 600px){
+    body{
+        background-image: url('/images/pattern-background-desktop.svg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    main{
+        position: relative;
+        left: 38%;
+
+    }
+
+}
+    

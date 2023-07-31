@@ -1,0 +1,8 @@
+body{
+    background-image: url('/images/pattern-background-mobile.svg');
+    font-family: montserrat;
+}
+
+#payment{
+    background-color:blue;
+}
